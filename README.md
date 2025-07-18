@@ -14,7 +14,6 @@
 
 ✧ Each solution file includes:  
 ⋆ **LeetCode link** 
-
-⋆ **Approach & reasoning(if needed)**  
+⋆ **Approach & reasoning[if required]**  
 ⋆ **Clean, optimized Python implementation**  
 
