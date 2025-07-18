@@ -1,5 +1,5 @@
 <h1 align="center">  
-✦ ✧ ⋆  DSA LeetCode Solutions  ⋆ ✧ ✦  
+. ݁₊ ⊹ . ݁˖ . ݁  DSA LeetCode Solutions  . ݁₊ ⊹ . ݁˖ . ݁
   
 </h1>
 <p align="center">
